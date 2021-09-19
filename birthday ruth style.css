@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .text{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      flex-direction: column;
+  }
+  .text h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black; 
+  }
+  .satu{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    background-color: rgb(96, 197, 255)
+  }
+  .dua{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    background-color: rgb(96, 255, 242)
+  }
+  .tiga{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    background-color: rgb(244, 255, 96)
+  }
+  .empat{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    background-color: rgb(255, 181, 96)
+  }
+  .lima{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    background-color: rgb(255, 96, 96)
+  }
+  .enam img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(255, 96, 96)
+    height: 500px;
+    width: 100vw;
+  }
